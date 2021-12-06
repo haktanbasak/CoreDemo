@@ -1,4 +1,4 @@
-# ASP.NET Core 5.0 ProjeKampi
+# ASP.NET Core 5.0 ProjeKampı
 Projede ASP.NET Core MVC 5.0 teknolojisi & N Tier Architecture kullanıldı.
 ## Ödevler :
 ~~1: Projeyi GitHuba yüklemek.~~
