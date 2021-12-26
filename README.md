@@ -18,3 +18,5 @@ Projede ASP.NET Core MVC 5.0 teknolojisi & N Tier Architecture kullanıldı.
 ~~7: Fluent Validation kullanarak kullanıcının parolasında en az bir büyük harf, en az bir küçük harf ve en az 1 sayı olacak.~~
 
 8: Partial viewlerin formu post ederken başka bir sayfaya gitmesine gerek kalmadan post işlemini yaptırma.(Ajax)
+
+~~9: Durum kısmın true yerine aktif false yerine pasif yazdırılacak.
