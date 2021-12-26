@@ -19,4 +19,4 @@ Projede ASP.NET Core MVC 5.0 teknolojisi & N Tier Architecture kullanıldı.
 
 8: Partial viewlerin formu post ederken başka bir sayfaya gitmesine gerek kalmadan post işlemini yaptırma.(Ajax)
 
-~~9: Durum kısmın true yerine aktif false yerine pasif yazdırılacak.
+~~9: Durum kısmın true yerine aktif false yerine pasif yazdırılacak.~~
